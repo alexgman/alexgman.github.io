@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Gordon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_20180617_101643.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programming Portfolio"
   location         : "Houston, TX"
   email            :
